@@ -1,5 +1,5 @@
 # Sleepy
-Use the command line to generate .gitignore files for youe project.
+Use the command line to generate .gitignore files for your project.
 
 ## Features
 
@@ -27,6 +27,10 @@ Commands:
 ```
 
 ## Usage
+### Basic Usage
+```sh
+$ sleepy generate c++	#create c++ gitignore file to command line
+```
 
 ## Contribute
 
